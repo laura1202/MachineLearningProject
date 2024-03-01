@@ -22,12 +22,15 @@ Installing Python is a one-time operation. If you already installed Python in th
 Say what the step will be
 ## Step 1: Download The Installer
 
-First, open your Web browser and
-go to [https://python.org/](https://python.org/):
+This project has been tested with Python 3.11.5.
 
-![Python home page](imgs/010_pythonorg.png)
+If you want to install it, open your Web browser and
+go to [https://python.org/](https://www.python.org/downloads/release/python-3115/):
 
-Click on the **Download > Latest Python 3.6.0** link.
+Scroll to the bottom of the page and use the Python installer for your system to install it.
+
+
+
 
 You will get a page listing all the new features of Python 3.6.0:
 
