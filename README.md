@@ -12,16 +12,12 @@ The preliminary step consists in installing the Python interpreter on your compu
 
 ### Download The Installer
 
-This project has been tested with Python 3.11.5.
-
-If you want to install it, open your Web browser and
-go to [https://python.org/](https://www.python.org/downloads/release/python-3115/):
-
-Scroll to the bottom of the page and use the Python installer for your system to install it.
+This project has been tested with Python 3.11.5, Jupyter Notebook 7.0.6, pandas 2.1.4, numpy 1.26.3, matplotlib 3.8.0, seaborn 0.12.2 and scikit-learn 1.2.2
 
 ## Demarrage
 
-
+To explore this project please download the 2 datasets and the python notebooks.
+You have the option to upload the files via Jupyter notebook, which will conveniently relocate them to the current working directory of your Python installation. Alternatively, you can manually place the files in the current working directory and subsequently execute the notebooks.
 
 ## Authors
 
