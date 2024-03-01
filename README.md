@@ -1,9 +1,6 @@
 # MachineLearningProject
 
 In this project we will analyse the Goodreads-books dataset and train a model that predicts a book’s rating.
-# Project Title
-
-One Paragraph of project description goes here
 
 ## Getting Started
 
@@ -19,9 +16,20 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+The preliminary step consists in installing the Python interpreter on your computer.
 
+Installing Python is a one-time operation. If you already installed Python in the past (for example, to run a different program), you do not need to install it again, and you can skip to the next section.
 Say what the step will be
+## Step 1: Download The Installer
+
+First, open your Web browser and
+go to [https://python.org/](https://python.org/):
+
+![Python home page](imgs/010_pythonorg.png)
+
+Click on the **Download > Latest Python 3.6.0** link.
+
+You will get a page listing all the new features of Python 3.6.0:
 
 ```
 Give the example
