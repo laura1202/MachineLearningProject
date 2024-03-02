@@ -22,7 +22,7 @@ You have the option to upload the files via Jupyter notebook, which will conveni
 ## Authors
 
 
-* **Abdoul Ba** - *Initial work* - [bahabdou11](https://github.com/bahabdou11)
+* **Abdoul Ba** - *Initial work* - [bahabdoul011](https://github.com/bahabdoul011)
 * **Emna Ben Chaabane** - *Initial work* - [Laura1202](https://github.com/laura1202)
 * **Laura Lacombe** - *Initial work* - [Laura1202](https://github.com/laura1202)
 * **Serge Nyamsin** - *Initial work* - [sanyamsin](https://github.com/sanyamsin)
